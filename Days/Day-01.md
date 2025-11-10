@@ -51,5 +51,5 @@
 5. Connect Clients: Connect both the SOC Analyst and Attacker Laptops to the Internet.
 
 ## Logical Diagram
-![SOC Lab Logical Diagram](../../Assests/Images/Logical-Network-Diagram.png)
+![SOC Lab Logical Diagram](https://github.com/CyberAhmedX/Sentinel-Forge/blob/main/Assests/Images/Logical-Network-Diagram.png)
 
