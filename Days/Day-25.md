@@ -1,4 +1,4 @@
-### DAY 25: osTicket + ELK Integration  
+# DAY 25: osTicket + ELK Integration  
 This guide details the hands-on steps for integrating the Elastic (ELK) stack with osTicket to automatically generate tickets from security alerts.
 
 ---
@@ -93,3 +93,4 @@ Paste the following XML structure into the **Body**:
 **Verify Ticket**:  
 1. Go to the osTicket Agent Panel (`/scp`).  
 2. A new ticket will be present in the **Open** queue with the subject line you defined (e.g., `my-dfir-30day-challenge-your-own-handle`), confirming the integration is working.
+
