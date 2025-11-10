@@ -1,4 +1,3 @@
-```markdown
 # DAY 30: Common Issues & Troubleshooting
 
 This guide details the step-by-step troubleshooting process for the most common errors encountered during the 30-day challenge, focusing on firewall, connectivity, and configuration issues.
@@ -122,3 +121,4 @@ The config.inc.php file was updated with the public IP and new password before t
 - Go to User accounts and grant remote privileges/set passwords for the root and pma users (as done on Day 24).
 - Re-edit config.inc.php. Now, set the host to your public IP and add the new passwords.
 - Save, and the login will work.
+
