@@ -1,4 +1,4 @@
-#Day 1 : Logical Diagram
+# Day 1 : Logical Diagram
 
 ## Initial Setup and Environment Containers
 1. Access Tool: Navigate to draw.io.
@@ -52,5 +52,5 @@
 
 ## Logical Diagram
 
-https://github.com/CyberAhmedX/Sentinel-Forge/blob/main/Assets/Images/Logical-Network-Diagram.png
+![SOC Lab Logical Diagram](../../Assets/Images/Logical-Network-Diagram.png)
 
