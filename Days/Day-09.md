@@ -1,24 +1,3 @@
-<think>
-We are converting the given tutorial into markdown format without changing the content.
- Steps:
- 1. Use appropriate markdown headings for the main sections.
- 2. For the bullet points, use markdown bullet points (either asterisk or hyphen).
- 3. For the code snippet, use a markdown code block (triple backticks) and specify the language if known (like powershell).
- 4. Keep the structure and content exactly as provided.
-
- Note: The original uses:
-   - Bullet points with "•" and indentation for sub-points (like "o").
-   - A code block for the PowerShell commands.
-
- We'll represent:
-   - Main bullets with "-"
-   - Sub-bullets with "  -" (two spaces for indentation)
-
- Also, note that the original has a step: "cd" without a directory. We leave it as is.
-
- Let's convert step by step.
-</think>
-```markdown
 # Day 9 Sysmon Setup Tutorial
 
 ## 1. Preparation: Download Files
@@ -45,3 +24,4 @@ We are converting the given tutorial into markdown format without changing the c
   - Navigate to `Applications and Services Logs` → `Microsoft` → `Windows` → `Sysmon` → `Operational`.
   - *Verification*: Confirm that the log viewer is populating with new events, such as **Event ID 3 (Network Connections)**, which is enabled by the Olaf configuration.
 ```
+
