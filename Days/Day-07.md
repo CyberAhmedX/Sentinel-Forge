@@ -49,10 +49,11 @@ The initial policy defaults to using Port 443, causing issues. This must be corr
   - Open PowerShell as Administrator.
   - **Modify Command (Crucial)**: Before running the command, you must add the `--insecure` flag and manually correct the port to `8220` to bypass certificate errors and port conflicts:
     ```powershell
-    ... --insecure -f https://<FLEET_IP>:8220
+    ... <Original_Command_From_UI> --insecure -f https://<FLEET_IP>:8220
     ```
   - Confirm to continue the installation.
 
 ## 7. Final Verification
 - **Agent Status**: In Kibana $\\rightarrow$ Fleet $\\rightarrow$ Agents, confirm the Windows Agent is `Connected`.
 - **Log Data**: Navigate to `Discover` and search for logs (e.g., `event.code: 4625`) to confirm failed logon events are being collected from the Windows Server.
+
