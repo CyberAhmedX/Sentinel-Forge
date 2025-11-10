@@ -52,5 +52,5 @@
 
 ## Logical Diagram
 
-https://github.com/CyberAhmedX/Sentinel-Forge/blob/main/Assets/Images/Logical-Network-Diagram.png
+https://github.com/CyberAhmedX/Sentinel-Forge/blob/main/Assests/Images/Logical-Network-Diagram.png
 
