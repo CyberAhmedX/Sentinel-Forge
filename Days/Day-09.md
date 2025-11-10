@@ -23,5 +23,5 @@
 - **Check Event Logs**: Open the Windows Event Viewer.
   - Navigate to `Applications and Services Logs` → `Microsoft` → `Windows` → `Sysmon` → `Operational`.
   - *Verification*: Confirm that the log viewer is populating with new events, such as **Event ID 3 (Network Connections)**, which is enabled by the Olaf configuration.
-```
+
 
