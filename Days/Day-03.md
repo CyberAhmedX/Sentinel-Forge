@@ -76,4 +76,4 @@ systemctl start elasticsearch.service
 systemctl status elasticsearch.service
 ```
 ✅ Confirm status: **"active (running)"**
-```
+
