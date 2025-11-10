@@ -23,4 +23,4 @@
    - **Search**: Search using keywords related to failed logins (e.g., `authentication failure`).
    - **Field Extraction**: Add the `message` field to the main data table view to easily read the full log messages from the Linux server (e.g., `Pam Unix SSH auth failure`).
    - **Extraction Example**: You can now query for a specific attacking IP address to see all failed login attempts associated with it.
-```
+
