@@ -28,5 +28,6 @@ The diagram visually maps the execution chain, detailing the six planned phases:
     - **Action**: Use the established C2 session to download a fake password file (`passwords.txt`) from the Target Machine to the C2 Server.
       
 - **Attack Diagram**
-- https://github.com/CyberAhmedX/Sentinel-Forge/blob/main/Assests/Images/Attack Diagram.jpg
+- ![SOC Lab Attack Diagram](https://github.com/CyberAhmedX/Sentinel-Forge/blob/main/Assests/Images/Attack-Diagram.jpg)
+
 
