@@ -1,5 +1,7 @@
 # Sentinel-Forge
 
+![Sentinel-Forge](https://github.com/CyberAhmedX/Sentinel-Forge/blob/main/Assests/Images/Sentinel-Forge.png)
+
 **Forging Elite SOC Capabilities - A 30-Day Cybersecurity Detection Lab**
 
 ## Overview
