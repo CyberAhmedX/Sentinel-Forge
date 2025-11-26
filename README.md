@@ -50,7 +50,7 @@ To explore this project:
 
 ## Acknowledgments
 
-This project is based on the [MYDFIR 30 Days SOC Challenge](https://youtube.com/playlist?list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&si=aWDtivjYN3e3kRZZ).
+This project is based on the [30-Day MYDFIR SOC Analyst Challenge](https://youtube.com/playlist?list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&si=aWDtivjYN3e3kRZZ).
 
 ---
 
