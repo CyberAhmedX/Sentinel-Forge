@@ -50,7 +50,7 @@ To explore this project:
 
 ## Acknowledgments
 
-This project is based on the [DFIR 30 Days SOC Challenge](https://youtube.com/playlist?list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&si=aWDtivjYN3e3kRZZ) by Ahmed Sajid Butt.
+This project is based on the [MYDFIR 30 Days SOC Challenge](https://youtube.com/playlist?list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&si=aWDtivjYN3e3kRZZ).
 
 ---
 
