@@ -44,6 +44,8 @@ To explore this project:
 2. Review the configurations and scripts used throughout the challenge
 3. Follow the logical progression from infrastructure setup to advanced detection
 
+![Building a Complete SOC Lab Project](https://github.com/CyberAhmedX/Sentinel-Forge/blob/main/Assests/Images/Building-a-Complete-SOC-Lab-Project.png)
+
 ## Acknowledgments
 
 This project is based on the [DFIR 30 Days SOC Challenge](https://youtube.com/playlist?list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6&si=aWDtivjYN3e3kRZZ) by Ahmed Sajid Butt.
