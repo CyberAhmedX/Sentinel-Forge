@@ -44,7 +44,7 @@ To explore this project:
 2. Review the configurations and scripts used throughout the challenge
 3. Follow the logical progression from infrastructure setup to advanced detection
 
-![Building a Complete SOC Lab Project](https://github.com/CyberAhmedX/Sentinel-Forge/Assests/Images/Building-a-Complete-SOC-Lab-Project.png)
+![Building-a-Complete-SOC-Lab-Project](https://github.com/CyberAhmedX/Sentinel-Forge/blob/main/Assests/Images/Building-a-Complete-SOC-Lab-Project.png)
 
 ## Acknowledgments
 
